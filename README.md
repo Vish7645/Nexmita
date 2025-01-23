@@ -107,7 +107,7 @@ Feel free to fork the repository and create pull requests with your ideas.
 
 For any inquiries or feedback, please reach out to:  
 **Vishal**  
-**Email**: [Vishal76iiitl@gmail.com](mailto:your_email@example.com)  
+**Email**: [Vishal76iiitl@gmail.com](mailto:vishal76iiitl@gmail.com)  
 **GitHub**: [Vish7645](https://github.com/Vish7645)
 
 ---
